@@ -22,26 +22,26 @@
   * [crawl-iQIYI-movie-resources.js](./crawl-iQIYI-movie-resources.js) -Crawl the iQIYI movie resource in node environment
 ***
 ### Regular expression
-* [regular]() - Regular used and learned at work
-  * [password strength]()
-  * [account is legal]()
-  * [Email address]()
-  * [domain name verification]()
-  * [mobile number verification]()
-  * [QQ verification]()
-  * [verification of China postal code]()
-  * [date format validation]()
-  * [identification card number verification]()
-  * [IP address verification]()
-  * [first and last blank character validation]()
+* [regular](./regular/README_zh.md) - Regular used and learned at work
+  * [password strength](./regular/README_zh.md)
+  * [account is legal](./regular/README_zh.md)
+  * [Email address](./regular/README_zh.md)
+  * [domain name verification](./regular/README_zh.md)
+  * [mobile number verification](./regular/README_zh.md)
+  * [QQ verification](./regular/README_zh.md)
+  * [verification of China postal code](./regular/README_zh.md)
+  * [date format validation](./regular/README_zh.md)
+  * [identification card number verification](./regular/README_zh.md)
+  * [IP address verification](./regular/README_zh.md)
+  * [first and last blank character validation](./regular/README_zh.md)
 ***
 ### Js games, tools, fun and interesting related project learning
 #### game case
-* [game1]()- use the accelerate button to keep it in the air and see how long you can keep it
+* [game1](./game1.html)- use the accelerate button to keep it in the air and see how long you can keep it
 
  ![](./image/game1.png)
 
-  * [game2]()- Running, jumping, or sprinting over different obstacles
+  * [game2](./game2.html)- Running, jumping, or sprinting over different obstacles
 
    ![](./image/game2.png)
 

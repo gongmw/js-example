@@ -4,7 +4,7 @@
 创建收集这些javascript 文件作为实验学习，
 同时也为自己解决工作上的一些问题。我也希望给那些需要使用这个脚本或节省时间搜索互联网和刚开始学习的人一些帮助，欢迎大家指出问题一起加入分享，简化或提高代码的效率
 * * *
-**这些脚本允许您快速解决问题并节省您所浪费的时间**
+**这些脚本或许为你快速解决问题并节省一些时间**
 ###  
   * [create-dir-if-not-there.js](./create-dir-if-not-there.js) -检查用户主目录中是否存在目录，如果不存在，则创建它。
   
@@ -26,7 +26,7 @@
   * [帐号是否合法](./regular/README_zh.md) 
   * [Email邮箱地址](./regular/README_zh.md) 
   * [域名验证](./regular/README_zh.md) 
-  * [手机号码验证]() 
+  * [手机号码验证](./regular/README_zh.md) 
   * [QQ验证](./regular/README_zh.md) 
   * [中国邮政编码验证](./regular/README_zh.md) 
   * [日期格式验证](./regular/README_zh.md) 
@@ -36,11 +36,11 @@
 ***
 ###  js游戏、工具、好玩有意思相关项目学习
  #### 游戏案例
- * [game1]()- 使用加速按钮保持在空中 看你可以保持多久
+ * [game1](./game1.html)- 使用加速按钮保持在空中 看你可以保持多久
 
  ![](./image/game1.png)
 
-  * [game2]()- 在不同的障碍物上奔跑，跳跃或冲刺
+  * [game2](./game2.html)- 在不同的障碍物上奔跑，跳跃或冲刺
 
    ![](./image/game2.png)
 
