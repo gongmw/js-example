@@ -7,7 +7,7 @@
 
  #### [中文](./README_zh.md)
 ### 
-  * [create_dir_if_not_there.js](./create_dir_if_not_there.js) - Checks to see if a directory exists in the users home directory, if not then create it and automatically create parent directories.
+  * [create-dir-if-not-there.js](./create-dir-if-not-there.js) - Checks to see if a directory exists in the users home directory, if not then create it and automatically create parent directories.
   
   * [use-recursive-traverse-folder.js](./use-recursive-traverse-folder.js) -Recursively traverse the folder files
   
