@@ -22,18 +22,18 @@
   * [crawl-iQIYI-movie-resources.js](./crawl-iQIYI-movie-resources.js) -Crawl the iQIYI movie resource in node environment
 ***
 ### Regular expression
-* [regular](./regular/README_zh.md) - Regular used and learned at work
-  * [password strength](./regular/README_zh.md)
-  * [account is legal](./regular/README_zh.md)
-  * [Email address](./regular/README_zh.md)
-  * [domain name verification](./regular/README_zh.md)
-  * [mobile number verification](./regular/README_zh.md)
-  * [QQ verification](./regular/README_zh.md)
-  * [verification of China postal code](./regular/README_zh.md)
-  * [date format validation](./regular/README_zh.md)
-  * [identification card number verification](./regular/README_zh.md)
-  * [IP address verification](./regular/README_zh.md)
-  * [first and last blank character validation](./regular/README_zh.md)
+* [regular](./regular/README.md) - Regular used and learned at work
+  * [password strength](./regular/README.md)
+  * [account is legal](./regular/README.md)
+  * [Email address](./regular/README.md)
+  * [domain name verification](./regular/README.md)
+  * [mobile number verification](./regular/README.md)
+  * [QQ verification](./regular/README.md)
+  * [verification of China postal code](./regular/README.md)
+  * [date format validation](./regular/README.md)
+  * [identification card number verification](./regular/README.md)
+  * [IP address verification](./regular/README.md)
+  * [first and last blank character validation](./regular/README.md)
 ***
 ### Js games, tools, fun and interesting related project learning
 #### game case
