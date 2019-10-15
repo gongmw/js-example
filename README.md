@@ -1,10 +1,9 @@
 ![](./image/jsexample.png)
 ***
 
- Create a collection of these javascript files as an experiment to play with the language, or to solve problems for myself work.I also hope to give some help to those who need to use this script or save time searching the Internet and just starting to learn
- I would gladly accept pointers from others to improve, simplify, or make the code more efficient Welcome to join 
+Create and share these javascript files as an experiment to learn the language, as well as to solve some problems at work. I would also like to give some help to those who need to use these scripts and are just beginning to learn, and welcome everyone to point out problems and join in sharing, simplifying or improving the efficiency of the code
  ***
-
+**These scripts may help you solve problems quickly and save you some time**
  #### [中文](./README_zh.md)
 ### 
   * [create-dir-if-not-there.js](./create-dir-if-not-there.js) - Checks to see if a directory exists in the users home directory, if not then create it and automatically create parent directories.
