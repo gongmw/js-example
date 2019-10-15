@@ -6,7 +6,7 @@
 * * *
 **这些脚本或许为你快速解决问题并节省一些时间**
 ###  
-  *[concurrent.js](./concurrent.js) -检查用户主目录中是否存在目录，如果不存在，则创建它。
+  * [concurrent.js](./concurrent.js) -限制promises并行执行数量
 
   * [create-dir-if-not-there.js](./create-dir-if-not-there.js) -检查用户主目录中是否存在目录，如果不存在，则创建它。
   
