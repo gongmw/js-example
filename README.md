@@ -6,6 +6,8 @@ Create and share these javascript files as an experiment to learn the language, 
 **These scripts may help you solve problems quickly and save you some time**
  #### [中文](./README_zh.md)
 ### 
+   * [concurrent.js](./concurrent.js) -Limit concurrent of promises
+
   * [create-dir-if-not-there.js](./create-dir-if-not-there.js) - Checks to see if a directory exists in the users home directory, if not then create it and automatically create parent directories.
   
   * [use-recursive-traverse-folder.js](./use-recursive-traverse-folder.js) -Recursively traverse the folder files
