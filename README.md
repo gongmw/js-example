@@ -8,6 +8,10 @@ Create and share these javascript files as an experiment to learn the language, 
 ### 
    * [concurrent.js](./concurrent.js) -Limit concurrent of promises
 
+   * [amp](./amp/README.md) -Encode message to buffer and decode buffer to message |
+   project source:[https://github.com/shasharoman/amp](https://github.com/shasharoman/amp) author has authorized
+
+
   * [create-dir-if-not-there.js](./create-dir-if-not-there.js) - Checks to see if a directory exists in the users home directory, if not then create it and automatically create parent directories.
   
   * [use-recursive-traverse-folder.js](./use-recursive-traverse-folder.js) -Recursively traverse the folder files

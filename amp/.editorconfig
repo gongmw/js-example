@@ -1,0 +1,8 @@
+{
+    "root": true,
+    "indent_style": "space",
+    "indent_size": 4,
+    "trim_trailing_whitespace": true,
+    "space_after_anon_function": true,
+    "brace_style": "end-expand"
+}
