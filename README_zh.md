@@ -6,9 +6,11 @@
 * * *
 **这些脚本或许为你快速解决问题并节省一些时间**
 ###  
+  * [eventEmitter.js](./eventEmitter.js) -手写eventEmitter实现
+
   * [concurrent.js](./concurrent.js) -限制promises并行执行数量
 
-   * [amp](./amp/README.md) -用于消息协议编解码器和流解析器 |
+  * [amp](./amp/README.md) -用于消息协议编解码器和流解析器 |
    项目来源:[https://github.com/shasharoman/amp](https://github.com/shasharoman/amp)原作者已授权
 
   * [create-dir-if-not-there.js](./create-dir-if-not-there.js) -检查用户主目录中是否存在目录，如果不存在，则创建它。

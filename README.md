@@ -6,6 +6,8 @@ Create and share these javascript files as an experiment to learn the language, 
 **These scripts may help you solve problems quickly and save you some time**
  #### [中文](./README_zh.md)
 ### 
+   * [eventEmitter.js](./eventEmitter.js) -Hand write eventEmitter
+
    * [concurrent.js](./concurrent.js) -Limit concurrent of promises
 
    * [amp](./amp/README.md) -Encode message to buffer and decode buffer to message |
