@@ -10,6 +10,8 @@
 
   * [concurrent.js](./concurrent.js) -限制promises并行执行数量
 
+  * [jsonStringify.js](./interview/JSON-stringify.js) -实现JSON.stringify()方法
+
   * [amp](./amp/README.md) -用于消息协议编解码器和流解析器 |
    项目来源:[https://github.com/shasharoman/amp](https://github.com/shasharoman/amp)原作者已授权
 
@@ -26,6 +28,11 @@
   * [unwxapkg](./unwxapkg) -解压.wxapkg格式文件包(引用地址:https://github.com/thedreamwork/unwxapkg)
 
   * [crawl-iQIYI-movie-resources.js](./crawl-iQIYI-movie-resources.js) -在node环境下爬取爱奇艺电影资源
+***
+### JavaScript手写代码
+  * [实现new操作符](./interview/new.js)
+  * [实现JSON.stringify](./interview/JSON-stringify.js)
+
 ***
 ###  正则表达式处理相关
 * [regular](./regular/README_zh.md) - 工作中经常使用和学习的正则处理
