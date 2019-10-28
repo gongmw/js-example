@@ -30,7 +30,6 @@
   * [crawl-iQIYI-movie-resources.js](./crawl-iQIYI-movie-resources.js) -在node环境下爬取爱奇艺电影资源
 ***
 ### JavaScript手写代码
-  * [实现new操作符](./interview/new.js)
   * [实现JSON.stringify](./interview/JSON-stringify.js)
 
 ***

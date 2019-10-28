@@ -28,6 +28,11 @@ Create and share these javascript files as an experiment to learn the language, 
 
   * [crawl-iQIYI-movie-resources.js](./crawl-iQIYI-movie-resources.js) -Crawl the iQIYI movie resource in node environment
 ***
+
+### JavaScript Interview hand written code
+  * [JSON.stringify()](./interview/JSON-stringify.js)
+
+***
 ### Regular expression
 * [regular](./regular/README.md) - Regular used and learned at work
   * [password strength](./regular/README.md)
