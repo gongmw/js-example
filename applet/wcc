@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "$*" >> /Users/fengshi/Library/Application\ Support/微信开发者工具/wcc.txt
+echo "$#" >> /Users/fengshi/Library/Application\ Support/微信开发者工具/wccparamssum.txt
+
+/Applications/wechatwebdevtools.app/Contents/Resources/package.nw/js/vendor/wcc_bak $*

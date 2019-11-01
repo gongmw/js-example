@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "$*" > /Users/fengshi/Library/Application\ Support/微信开发者工具/wcsc.txt
+
+/Applications/wechatwebdevtools.app/Contents/Resources/package.nw/js/vendor/wcsc_bak $*
