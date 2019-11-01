@@ -30,6 +30,7 @@ Create and share these javascript files as an experiment to learn the language, 
 ***
 
 ### JavaScript Interview hand written code
+  * [Promise](./interview/Promise.js)
   * [JSON.stringify()](./interview/JSON-stringify.js)
 
 ***
