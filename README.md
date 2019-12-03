@@ -33,20 +33,7 @@ Create and share these javascript files as an experiment to learn the language, 
   * [Promise](./interview/Promise.js)
   * [JSON.stringify()](./interview/JSON-stringify.js)
 
-***
-### Regular expression
-* [regular](./regular/README.md) - Regular used and learned at work
-  * [password strength](./regular/README.md)
-  * [account is legal](./regular/README.md)
-  * [Email address](./regular/README.md)
-  * [domain name verification](./regular/README.md)
-  * [mobile number verification](./regular/README.md)
-  * [QQ verification](./regular/README.md)
-  * [verification of China postal code](./regular/README.md)
-  * [date format validation](./regular/README.md)
-  * [identification card number verification](./regular/README.md)
-  * [IP address verification](./regular/README.md)
-  * [first and last blank character validation](./regular/README.md)
+
 ***
 ### Js games, tools, fun and interesting related project learning
 #### game case

@@ -34,20 +34,7 @@
  * [实现JSON.stringify](./interview/JSON-stringify.js)
 
 ***
-###  正则表达式处理相关
-* [regular](./regular/README_zh.md) - 工作中经常使用和学习的正则处理
-  * [密码强度](./regular/README_zh.md) 
-  * [帐号是否合法](./regular/README_zh.md) 
-  * [Email邮箱地址](./regular/README_zh.md) 
-  * [域名验证](./regular/README_zh.md) 
-  * [手机号码验证](./regular/README_zh.md) 
-  * [QQ验证](./regular/README_zh.md) 
-  * [中国邮政编码验证](./regular/README_zh.md) 
-  * [日期格式验证](./regular/README_zh.md) 
-  * [身份证号码验证](./regular/README_zh.md) 
-  * [IP地址验证](./regular/README_zh.md) 
-  * [首尾空白字符验证](./regular/README_zh.md) 
-***
+
 ###  js游戏、工具、好玩有意思相关项目学习
  #### 游戏案例
  * [game1](./game1.html)- 使用加速按钮保持在空中 看你可以保持多久
