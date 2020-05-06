@@ -7,7 +7,7 @@
 <body>
 websocket
 <script>
-  const connection = new WebSocket('ws://localhost:8181');
+  const connection = new WebSocket('ws://localhost:8081');
   connection.onopen = function wsOpen(event) {
     connection.send('向服务端发送消息');
   };
