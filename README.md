@@ -34,6 +34,7 @@
 ### JavaScript手写代码
 * [实现一个Promise](./interview/Promise.js)
  * [实现JSON.stringify](./interview/JSON-stringify.js)
+ *  [判断数组中重复出现过的元素](./number-repeat.js)
 
 ***
 
